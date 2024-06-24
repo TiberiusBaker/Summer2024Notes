@@ -34,7 +34,7 @@ Some people think that the conclusion of relativism is still too tame, and they 
 
 The author of this paper makes the claim that having this opinion makes it so that you cannot condemn others for their actions if their actions are part of the moral framework. This is absurd. You can. When laws are made around certain topics, a group of individuals is imposing their morality on a smaller group that may not necessarily agree with their moral outlook. Then society condemns the actions of the others because they have deemed in their moral framework that outing incorrect moral ideology is integral to maintaining their own morality and sense of decency.
 
-I do not agree with the author in this section, who goes so far as to say, "On the basis of subjectivism Adolf HItler and serial murderer Ted Bundy could be considered as moral as Gandhi"
+I do not agree with the author in this section, who goes so far as to say, "On the basis of subjectivism Adolf Hitler and serial murderer Ted Bundy could be considered as moral as Gandhi"
 
 After some more research, i still mostly agree with what i said here in this section, however, I will put forward that I am something more of a Moral Descriptivist who believes that individuals morals come from their own idea of what they think will maximize their own pleasure. So an action is neither good nor evil intrinsically, it is good if it makes an individual feel pleasure or evil if not. 
 
@@ -53,3 +53,32 @@ Author argues that this is not a good argument for tolerance.
 
 The author also states that under this view, reformers are always morally wrong and separate societies cannot condemn other societies for heinous morality.
 
+# The Case for Moral Objectivism
+On the Objectivist's account moral principles are what William Ross refers to as prima facie principles, valid rules of action that should generally be adhered to, but that may be overridden by another moral principle in cases of moral conflict.
+
+If one can establish or show that it is reasonable to believe that there is at least one objective moral principle that is binding on all people everywhere, one shall have shown that relativism is probably false and that a limited objectivism is true.
+
+The author chose the following principle to show this claim
+- It is morally wrong to torture people for the fun of it
+
+The author claims that this principle is binding on all rational agents, so that if some agent, S, rejects A, we should not let that affect our intuition that A is a true principle but rather try to explain S's behavior as perverse, ignorant, or irrational instead.
+- In an example, the author says a possible reason that a tribe could be entirely against the principle above is if they are on a lower evolutionary level than most Homo sapiens (This feels like a somewhat racist claim to make)
+
+The #CoreMorality, principles necessary for the good life
+1. Do not kill innocents
+2. Do not cause unnecessary pain or suffering
+3. Do not cheat or steal
+4. Keep your promises and honor your contracts
+5. Do not deprive another person of his or her freedom
+6. Do justice, treating equals equally and unequals unequally
+7. Tell the truth
+8. Help other people, at least when the cost to oneself is minimal
+9. Reciprocate
+10. Obey just laws
+
+An objectivist who bases his or her moral system on a common human nature with common needs and desires might argue for objectivism somewhat in this manner:
+1. Human nature is relatively similar in essential respects, having a commons et of needs and interests
+2. Moral principles are functions of human needs and interests, instituted by reason in order to promote the most significant interests and needs of rational beings
+3. Some moral principles will promote human interests and meet human needs better than others
+4. Those principles that will meet essential needs and promote the most significant interests of humans in optimal ways can be said to be objectively valid moral principles
+5. Therefore, since there is a common human nature, there is an objectively valid set of moral principles, applicable to all humanity
