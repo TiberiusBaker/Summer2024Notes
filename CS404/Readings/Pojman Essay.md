@@ -32,12 +32,7 @@ We derive the following from the above statement about ethical relativism:
 ## Subjectivism
 Some people think that the conclusion of relativism is still too tame, and they maintain that morality is not dependent on the society but rather on the individual
 
-The author of this paper makes the claim that having this opinion makes it so that you cannot condemn others for their actions if their actions are part of the moral framework. This is absurd. You can. When laws are made around certain topics, a group of individuals is imposing their morality on a smaller group that may not necessarily agree with their moral outlook. Then society condemns the actions of the others because they have deemed in their moral framework that outing incorrect moral ideology is integral to maintaining their own morality and sense of decency.
-
-I do not agree with the author in this section, who goes so far as to say, "On the basis of subjectivism Adolf Hitler and serial murderer Ted Bundy could be considered as moral as Gandhi"
-
-After some more research, i still mostly agree with what i said here in this section, however, I will put forward that I am something more of a Moral Descriptivist who believes that individuals morals come from their own idea of what they think will maximize their own pleasure. So an action is neither good nor evil intrinsically, it is good if it makes an individual feel pleasure or evil if not. 
-
+The author of this paper makes the claim that having this opinion makes it so that you cannot condemn others for their actions if their actions are part of their moral framework
 # Conventionalism
 #ConventionalEthicalRelativism - the view that there are no objective moral principles but that all valid moral principles are justified by virtue of their cultural acceptance, recognizes the social nature of morality.
 
@@ -49,7 +44,6 @@ The most famous of those holding this position is anthropologist Melville Hersko
 
 Author argues that this is not a good argument for tolerance.
 - "If morality simply is relative to each culture, then if the culture in question does not have a principle of tolerance, its members have no obligation to be tolerant"
-- I disagree with the author here, since Herskovits is not saying that tolerance must be a part of a culture, but instead that when one acknowledges that morality comes from cultural acceptance, one must then also be tolerant of other cultures, as one would see that the differences are due to cultural approval.
 
 The author also states that under this view, reformers are always morally wrong and separate societies cannot condemn other societies for heinous morality.
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92c691b5c5f25cbf",
+        "id": "5422aa56fcea8f14",
         "type": "tabs",
         "children": [
           {
-            "id": "fefa86471dc2be9e",
+            "id": "f5f5167235f6d2c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS404/Readings/Pojman Essay.md",
+                "file": "CS404/Readings/Ethical Egoism.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1ab157560ac4cbb",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS404/Readings/Pojman Essay.md",
+                "file": "CS404/Readings/Ethical Egoism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS404/Readings/Pojman Essay.md",
+                "file": "CS404/Readings/Ethical Egoism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS404/Readings/Pojman Essay.md"
+                "file": "CS404/Readings/Ethical Egoism.md"
               }
             }
           }
@@ -147,9 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fefa86471dc2be9e",
+  "active": "f5f5167235f6d2c3",
   "lastOpenFiles": [
+    "CS404/Readings/Ethical Philosophy - Kant's Groundwork Section II.md",
+    "CS404/Readings/Give and Take.md",
     "CS404/Readings/Pojman Essay.md",
+    "CS404/Readings/Glasgow Essay on the FUL.md",
+    "CS404/Readings/Ethical Egoism.md",
+    "CS404/Readings/A Framework for Making Ethical Decisions.md",
+    "CS404/Readings/The Golden Rule.md",
+    "CS404/Readings/Philosophical Ethics - Utility, Rights, Virtue.md",
+    "CS404/Class Notes/2024-06-25.md",
+    "Reading Bullet Points.md",
+    "CS404/Class Notes",
     "CS404/Readings",
     "CS404"
   ]
