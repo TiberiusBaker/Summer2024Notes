@@ -1,11 +1,11 @@
-#PhycologicalEgoism tells us that our only motivation is self-interest.
+#PsychologicalEgoism tells us that our only motivation is self-interest.
 - If this is true, then the only motivation we can have is to make ourselves better off
 - This is not an ethical view, because it says nothing about what is right or wrong.
 - If true, then there is little point in fashioning a morality that demands self-sacrifice
 - If true, then all morality could possibly do is ask that we look out for ourselves
 
 This is precisely the advice of #EthicalEgoism.
-- Unlike #PhycologicalEgoism, it really is a moral theory
+- Unlike #PsychologicalEgoism, it really is a moral theory
 - It tells use about what we are morally required and forbidden to do
 - Specifically, it says that there is one ultimate moral duty--to improve your own well-being as best you can
 
@@ -123,3 +123,13 @@ Suppose that my leg has been wounded in a hunting accident.
 
 Even if we accept that people are morally allowed to give themselves some priority, that does not mean that they are allowed to give themselves complete priority over others.
 
+# The History of Ethical Egoism
+- Socrates/Plato
+- Aristotle
+- Hobbes
+- Nietzsche
+- Ayn Rand
+
+# The "best argument for ethical egoism"
+- if you are morally required to do something, then you have a good reason to do it
+- If there is a good reason to do something, then doing it must make you better off
