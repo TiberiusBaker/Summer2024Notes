@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0192d5e431b34206",
+        "id": "0c071464030e3b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "b1e84cb96c6026d8",
+            "id": "340cc3ee59a2d627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS404/Readings/A Framework for Making Ethical Decisions.md",
+                "file": "CS404/Class Notes/2024-07-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS404/Readings/A Framework for Making Ethical Decisions.md",
+                "file": "CS404/Class Notes/2024-07-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS404/Readings/A Framework for Making Ethical Decisions.md",
+                "file": "CS404/Class Notes/2024-07-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS404/Readings/A Framework for Making Ethical Decisions.md"
+                "file": "CS404/Class Notes/2024-07-16.md"
               }
             }
           }
@@ -147,11 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1e84cb96c6026d8",
+  "active": "d153aa59fc864392",
   "lastOpenFiles": [
-    "CS404/Readings/Consequentialist Utilitarianism from Ethical Choices.md",
+    "CS404/Presentation Group Assignment.md",
+    "CS404/Class Notes/2024-07-16.md",
+    "CS404/Readings/Gert - Common Morality and Computing.md",
     "CS404/Class Notes/2024-07-09.md",
     "CS404/Readings/A Framework for Making Ethical Decisions.md",
+    "CS404/Readings/Consequentialist Utilitarianism from Ethical Choices.md",
     "CS404/Readings/Give and Take.md",
     "CS404/Readings/Ethical Philosophy - Kant's Groundwork Section II.md",
     "CS404/Readings/Ethical Egoism.md",

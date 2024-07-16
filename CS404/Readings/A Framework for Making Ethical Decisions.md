@@ -34,5 +34,8 @@ Characteristics of prima facie duties:
 - Non absolute
 - Morally relevant
 
+Actual duties - something that we derive upon analysis of a situation
+Prima facie duties - theories of duties
+
 
 # A Five Step Model for Making Difficult Ethical Decisions
